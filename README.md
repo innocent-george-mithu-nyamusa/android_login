@@ -13,6 +13,6 @@
       $dbname = "android_login"; 
 
   - Change Main Url inside Functions.Java File 
-  - If you are using localhost:[PORT] change Mainurl to MAIN_URL = "http://10.0.2.2:[PORT]/android_login/"
-  - If you are using just localhost change Mainurl to MAIN_URL = "http://10.0.2.2/android_login/"
+  - If you are using localhost:[PORT] change Mainurl to MAIN_URL = "http://localhost:[PORT]/android_login/"
+  - If you are using just localhost change Mainurl to MAIN_URL = "http://localhost/android_login/"
 
