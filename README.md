@@ -8,7 +8,7 @@
   - Change Config.php file for username and password
       
       $username = "root"; 
-      $password = "pass"; 
+      $password = ""; 
       $host = "localhost"; 
       $dbname = "android_login"; 
 
